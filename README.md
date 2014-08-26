@@ -48,3 +48,19 @@ A website I created for a local bakery. They did not have a website and just use
 Link: [http://peaceloveandcakes.herokuapp.com](http://peaceloveandcakes.herokuapp.com/ "CakeSite")
 ![Bakery](https://raw.githubusercontent.com/drewg233/CakeSite/master/app/assets/images/peace.png)
 
+
+## Parallax Resume
+
+A fun little resume that is still in the works. Although I think this is fun and different, I find myself working on other projects more. I need to finish this though.
+
+#### A few Qualities
+
+* Skollr.js
+	* Using Skrollr.js to create a parallax animated resume.
+
+Link: Currently my main site at [http://andrewjohngarcia.com](http://andrewjohngarcia.com/ "Resume")
+![Resume](https://raw.githubusercontent.com/drewg233/ParallaxResume/gh-pages/images/screenshot.png "Resume")
+
+
+
+
