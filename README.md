@@ -18,7 +18,7 @@ Link: [http://hiremeremote.com](http://hiremeremote.com/ "HireMeRemote")
 ![HireMeRemote](https://raw.githubusercontent.com/drewg233/ListOfProjects/master/images/hiremeremote.png)
 
 
-## HireMeRemote
+## FanClash
 
 An app in which users can play daily fantasy sports and get paid out by the end of the day. This site does require me to create a game in order to play. If you would like to play let me know and I can set one up. Currently only for MLB and NBA.
 
