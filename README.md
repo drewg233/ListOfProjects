@@ -16,3 +16,20 @@ An app that allows job seekers to find a remote job, and allows companies to pos
 
 Link: [http://hiremeremote.com](http://hiremeremote.com/ "HireMeRemote")
 ![HireMeRemote](https://raw.githubusercontent.com/drewg233/ListOfProjects/master/images/hiremeremote.png)
+
+
+## HireMeRemote
+
+An app in which users can play daily fantasy sports and get paid out by the end of the day. This site does require me to create a game in order to play. If you would like to play let me know and I can set one up. Currently only for MLB and NBA.
+
+#### A few Qualities
+
+* Devise
+	* Allows users to sign up/sign in/sign out
+* Stripe implementation
+	* User can deposit money to play with
+* Nokogiri
+	* Datascrapes all players stats live.
+
+Link: [http://fan-clash.herokuapp.com](http://fan-clash.herokuapp.com "FanClash")
+![FanClash](https://raw.githubusercontent.com/drewg233/FanClash/master/app/assets/images/fanclash.png)
