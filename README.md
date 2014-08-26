@@ -88,6 +88,7 @@ I'm teaching myself some iOS development. The functionality took me about an hou
 	* Allows users to see a list of global highscores
 
 Link: [iTunes Page](https://itunes.apple.com/us/app/highlow-numbers/id905157133?mt=8 "HighLow")
+
 ![screenshot](https://raw.githubusercontent.com/drewg233/HighLowGame/master/High%20Low/screenshot2.png "screenshot")
 
 
