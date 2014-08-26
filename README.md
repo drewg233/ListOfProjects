@@ -33,3 +33,18 @@ An app in which users can play daily fantasy sports and get paid out by the end 
 
 Link: [http://fan-clash.herokuapp.com](http://fan-clash.herokuapp.com "FanClash")
 ![FanClash](https://raw.githubusercontent.com/drewg233/FanClash/master/app/assets/images/fanclash.png)
+
+## CakeSite
+
+A website I created for a local bakery. They did not have a website and just used facebook to advertise.
+
+#### A few Qualities
+
+* Facebook
+	* Pulls images from their Facebook. So they can just keep doing what they have been.
+* Whenever
+	* Cron job to pull images from Facebook.
+
+Link: [http://peaceloveandcakes.herokuapp.com](http://peaceloveandcakes.herokuapp.com/ "CakeSite")
+![Bakery](https://raw.githubusercontent.com/drewg233/CakeSite/master/app/assets/images/peace.png)
+
